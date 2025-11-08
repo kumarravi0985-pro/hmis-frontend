@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hmis-frontend/static/css/main.77b36f40.css",
-    "main.js": "/hmis-frontend/static/js/main.4d39046f.js",
+    "main.css": "/hmis-frontend/static/css/main.f0ec1768.css",
+    "main.js": "/hmis-frontend/static/js/main.fb465b9a.js",
     "static/js/453.076b9408.chunk.js": "/hmis-frontend/static/js/453.076b9408.chunk.js",
     "static/media/linklogo.png": "/hmis-frontend/static/media/linklogo.ee5ba7db61a894b4ff0c.png",
     "static/media/logopicasoid.png": "/hmis-frontend/static/media/logopicasoid.e3dd760242a0f1f76ad9.png",
     "index.html": "/hmis-frontend/index.html",
-    "main.77b36f40.css.map": "/hmis-frontend/static/css/main.77b36f40.css.map",
-    "main.4d39046f.js.map": "/hmis-frontend/static/js/main.4d39046f.js.map",
+    "main.f0ec1768.css.map": "/hmis-frontend/static/css/main.f0ec1768.css.map",
+    "main.fb465b9a.js.map": "/hmis-frontend/static/js/main.fb465b9a.js.map",
     "453.076b9408.chunk.js.map": "/hmis-frontend/static/js/453.076b9408.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77b36f40.css",
-    "static/js/main.4d39046f.js"
+    "static/css/main.f0ec1768.css",
+    "static/js/main.fb465b9a.js"
   ]
 }
